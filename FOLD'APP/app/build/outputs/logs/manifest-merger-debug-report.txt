@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml
+		INJECTED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml
+		INJECTED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml
+		INJECTED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/69ef85b221811579004fbd1109231a473d8bf0d4/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:13:22-71
+application
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:15:5-63:19
+MERGED from [com.android.support:design:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/f37f1bb275767ee3a2b70fbcd0efd15031dcbe5b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/18978a12408da6b3c5d647e14ad2b6a5e225b178/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/76618ea2d368b5cdca7dfed3788729d52ac82f91/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/f62a7d5c916d92b07ce4264fa1608128d42ce7d6/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/1cef1299134ddb46d66c441d81c605b6fe1f6a14/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/69ef85b221811579004fbd1109231a473d8bf0d4/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/94ee34adfb3cc6d3d4612767c485980931fbcbd5/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/6c9ef1c99efbedbf2cc196c65ef051cd29cdc5e3/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/9e02aa0a6a264bb4c7935e4dffea55033fed56fd/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/54d53b1f6c7babb2aac14506256a67284b6a5e58/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/0e93862d46ea6df5d10dacc24165cf121f5f6c26/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/0f45942a8152daf845dd827c6ac6ee0b90a83617/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/920708716e0b2d56f13d7237ef0d4b07684563b9/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/c51a64ef1308609b8a4cbbdbcae3344e1b7e28ae/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/a2ad7788914f16e3f5f8a7639106dff44a35adef/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:18:9-42
+	android:supportsRtl
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:19:9-35
+	android:allowBackup
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:17:9-42
+activity#com.foldapp.hcattiaux.foldapp.MainActivity
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:21:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:27:27-74
+activity#com.foldapp.hcattiaux.foldapp.LogementActivity
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:30:9-33:59
+	android:label
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:32:13-61
+	android:theme
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:31:13-45
+activity#com.foldapp.hcattiaux.foldapp.Calendrier
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:34:9-37:59
+	android:label
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:36:13-62
+	android:theme
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:35:13-39
+activity#com.foldapp.hcattiaux.foldapp.TabbedActivity
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:38:9-41:59
+	android:label
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:40:13-58
+	android:theme
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:39:13-43
+activity#com.foldapp.hcattiaux.foldapp.SettingsActivity
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:42:9-44:63
+	android:label
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:44:13-60
+	android:name
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:43:13-45
+activity#com.foldapp.hcattiaux.foldapp.tab1Donnees
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:45:9-48:59
+	android:label
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:47:13-64
+	android:theme
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:46:13-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:59:9-61:55
+	android:value
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:61:13-52
+	android:name
+		ADDED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml:60:13-58
+uses-sdk
+INJECTED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/f37f1bb275767ee3a2b70fbcd0efd15031dcbe5b/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/18978a12408da6b3c5d647e14ad2b6a5e225b178/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/76618ea2d368b5cdca7dfed3788729d52ac82f91/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/f62a7d5c916d92b07ce4264fa1608128d42ce7d6/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/6c9ab3b61fa3a1388d969e2b8784399443d8c163/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/1cef1299134ddb46d66c441d81c605b6fe1f6a14/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/69ef85b221811579004fbd1109231a473d8bf0d4/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/94ee34adfb3cc6d3d4612767c485980931fbcbd5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/6c9ef1c99efbedbf2cc196c65ef051cd29cdc5e3/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/9e02aa0a6a264bb4c7935e4dffea55033fed56fd/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/54d53b1f6c7babb2aac14506256a67284b6a5e58/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/0e93862d46ea6df5d10dacc24165cf121f5f6c26/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/0f45942a8152daf845dd827c6ac6ee0b90a83617/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/920708716e0b2d56f13d7237ef0d4b07684563b9/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/c51a64ef1308609b8a4cbbdbcae3344e1b7e28ae/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/a2ad7788914f16e3f5f8a7639106dff44a35adef/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] /home/etudiants/csid/bgierts/.android/build-cache/f37f1bb275767ee3a2b70fbcd0efd15031dcbe5b/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml
+		INJECTED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml
+		INJECTED from /home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/69ef85b221811579004fbd1109231a473d8bf0d4/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/69ef85b221811579004fbd1109231a473d8bf0d4/output/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/69ef85b221811579004fbd1109231a473d8bf0d4/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/69ef85b221811579004fbd1109231a473d8bf0d4/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/69ef85b221811579004fbd1109231a473d8bf0d4/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/94ee34adfb3cc6d3d4612767c485980931fbcbd5/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/94ee34adfb3cc6d3d4612767c485980931fbcbd5/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/94ee34adfb3cc6d3d4612767c485980931fbcbd5/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/94ee34adfb3cc6d3d4612767c485980931fbcbd5/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/9e02aa0a6a264bb4c7935e4dffea55033fed56fd/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/9e02aa0a6a264bb4c7935e4dffea55033fed56fd/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/etudiants/csid/bgierts/.android/build-cache/9e02aa0a6a264bb4c7935e4dffea55033fed56fd/output/AndroidManifest.xml:20:20-65

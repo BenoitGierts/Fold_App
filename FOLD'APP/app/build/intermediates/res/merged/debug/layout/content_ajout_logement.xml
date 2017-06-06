@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:text="Titre du logement :"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewTitre"
+                android:textAppearance="@android:style/TextAppearance.Material.Large"
+                android:textColor="@color/colorPrimary"
+                android:textSize="22sp"
+                android:fontFamily="sans-serif" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="text"
+                android:ems="10"
+                android:id="@+id/editTextTitre"
+                android:hint="titre logement" />
+
+            <TextView
+                android:text="Prix :"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewPrix"
+                android:textAppearance="@android:style/TextAppearance.Material.Large"
+                android:textColor="@color/colorPrimary" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:ems="10"
+                android:id="@+id/editTextPrix"
+                android:hint="prix" />
+
+            <TextView
+                android:text="Description :"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewDescription"
+                android:textAppearance="@android:style/TextAppearance.Material.Large"
+                android:textColor="@color/colorPrimary" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textMultiLine"
+                android:ems="10"
+                android:id="@+id/editTextDescription"
+                android:hint="description" />
+
+            <TextView
+                android:text="Nombre de chambre :"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewnbChambre"
+                android:textAppearance="@android:style/TextAppearance.Material.Large"
+                android:textColor="@color/colorPrimary"
+                android:inputType="number"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:ems="10"
+                android:id="@+id/editTextnbChambre"
+                android:hint="nb de chambre" />
+
+            <TextView
+                android:text="Nombre d'étage :"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewnbEtage"
+                android:textAppearance="@android:style/TextAppearance.Material.Large"
+                android:textColor="@color/colorPrimary" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:ems="10"
+                android:id="@+id/editTextnbEtage"
+                android:hint="nb d'étage" />
+
+            <TextView
+                android:text="Nombre de pièce :"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewnbPiece"
+                android:textAppearance="@android:style/TextAppearance.Material.Large"
+                android:textColor="@color/colorPrimary" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:ems="10"
+                android:id="@+id/editTextnbPiece"
+                android:hint="nb de pièce" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

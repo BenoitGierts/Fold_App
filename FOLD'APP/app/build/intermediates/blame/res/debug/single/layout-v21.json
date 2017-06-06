@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/etudiants/csid/hcattiaux/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/etudiants/csid/hcattiaux/.android/build-cache/c8ecfd47c2b4a198892491ec6e7c14b7aa978515/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/etudiants/csid/bgierts/.android/build-cache/18978a12408da6b3c5d647e14ad2b6a5e225b178/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/etudiants/csid/hcattiaux/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/etudiants/csid/hcattiaux/.android/build-cache/c8ecfd47c2b4a198892491ec6e7c14b7aa978515/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/etudiants/csid/bgierts/.android/build-cache/18978a12408da6b3c5d647e14ad2b6a5e225b178/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/etudiants/csid/bgierts/.android/build-cache/18978a12408da6b3c5d647e14ad2b6a5e225b178/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/etudiants/csid/hcattiaux/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/etudiants/csid/hcattiaux/.android/build-cache/c8ecfd47c2b4a198892491ec6e7c14b7aa978515/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/etudiants/csid/hcattiaux/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/etudiants/csid/hcattiaux/.android/build-cache/c8ecfd47c2b4a198892491ec6e7c14b7aa978515/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/etudiants/csid/bgierts/.android/build-cache/18978a12408da6b3c5d647e14ad2b6a5e225b178/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
