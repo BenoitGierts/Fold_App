@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_old.png",
+        "source": "/home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/res/mipmap-xxhdpi/ic_launcher_old.png"
+    },
+    {
+        "merged": "/home/etudiants/csid/hcattiaux/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_old.png",
+        "source": "/home/etudiants/csid/hcattiaux/AndroidStudioProjects/FOLD'APP222/app/src/main/res/mipmap-xxhdpi/ic_launcher_old.png"
+    },
+    {
+        "merged": "/home/etudiants/csid/hcattiaux/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/setting.png",
+        "source": "/home/etudiants/csid/hcattiaux/AndroidStudioProjects/FOLD'APP222/app/src/main/res/mipmap-xxhdpi/setting.png"
+    },
+    {
+        "merged": "/home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/setting.png",
+        "source": "/home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/res/mipmap-xxhdpi/setting.png"
+    },
+    {
+        "merged": "/home/etudiants/csid/hcattiaux/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/etudiants/csid/hcattiaux/AndroidStudioProjects/FOLD'APP222/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

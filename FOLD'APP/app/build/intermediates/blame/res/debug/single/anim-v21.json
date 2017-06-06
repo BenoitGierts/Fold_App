@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/etudiants/csid/bgierts/.android/build-cache/f37f1bb275767ee3a2b70fbcd0efd15031dcbe5b/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/etudiants/csid/bgierts/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/etudiants/csid/bgierts/.android/build-cache/f37f1bb275767ee3a2b70fbcd0efd15031dcbe5b/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/etudiants/csid/hcattiaux/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/etudiants/csid/hcattiaux/.android/build-cache/f18ed09c924fc21ebe4d2c35bde07b52f1acbc04/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/etudiants/csid/hcattiaux/AndroidStudioProjects/FOLD'APP222/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/etudiants/csid/hcattiaux/.android/build-cache/f18ed09c924fc21ebe4d2c35bde07b52f1acbc04/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]
